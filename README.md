@@ -19,8 +19,8 @@ You can also check out my portfolio at[https://mfaisal-ash.vaidiq.me/Portofolio/
 ### SKILLS ###
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,html,css,tailwindcss,github,git,python,analysis" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,apidog,php,go" /><br>
+    <img src="https://skillicons.dev/icons?i=laravel,html,css,tailwindcss,github,git,python,apidog" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,php,go" /><br>
 </div>
 
 
