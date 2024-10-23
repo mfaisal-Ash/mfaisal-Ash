@@ -21,7 +21,8 @@ You can also check out my portfolio at[https://mfaisal-ash.vaidiq.me/Portofolio/
 <div align="center">
     <img src="https://skillicons.dev/icons?i=laravel,html,css,tailwindcss,github,git,python" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,php,go" /><br>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fapidog-icon-logo-vector-70955.html&psig=AOvVaw097Cn_QPMcFFS-pnA2ZNXc&ust=1729754000513000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjfqvv5o4kDFQAAAAAdAAAAABAE" alt="Apidog logo" width="50" /><br>
+    <img src="![image](https://github.com/user-attachments/assets/44c104cc-c2ce-4372-9a7f-ea01a09986ed)
+" alt="Apidog logo" width="50" /><br>
 </div>
 
 
