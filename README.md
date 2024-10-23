@@ -1,7 +1,7 @@
 ### Hallo, I'm Faisal 👋
 <p align="center">
 You can also check out my portfolio at[isal](https://github.com/mfaisal-Ash/portofolio)
-  <img src="https://github.com/mfaisal-Ash" />
+  <img src="https://github.com/mfaisal-Ash/Portofolio/blob/master/public/user.png" />
 </p>
 
 <h3 align="center">Force yourself to make changes, even 0.5% per day</h3>
