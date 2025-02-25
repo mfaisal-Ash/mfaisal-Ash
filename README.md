@@ -22,6 +22,8 @@ You can also check out my portfolio at[isal](https://github.com/mfaisal-Ash/port
     <img src="https://skillicons.dev/icons?i=laravel,html,css,tailwindcss,github,git,python" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,php,go" /><br>
     <img src="https://github.com/user-attachments/assets/0b09bbce-ed7d-412b-b541-5cad3a41b96c" alt="Apidog logo" style="width:48px; height:48px; margin: 5px;" />
+    <img src="https://github.com/mfaisal-Ash/mfaisal-Ash/tree/main/assets/png/Logo-analysis.jpg" alt="Logo Analysis" style="width:48px; height:48px; margin: 5px;" />
+    <img src="https://github.com/mfaisal-Ash/mfaisal-Ash/tree/main/assets/png/data-engineerLogo.jpg" alt="Logo Engineer" style="width:48px; height:48px; margin: 5px;" />
 <br>
 </div>
 
