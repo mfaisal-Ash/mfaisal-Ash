@@ -6,9 +6,9 @@ You can also check out my portfolio at[isal]()
 
 <h3 align="center">Force yourself to make changes, even 0.5% per day</h3>
 
-<p align="right">
+<!-- <p align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=mfaisal-Ash&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-</p>
+</p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,7 +45,7 @@ You can also check out my portfolio at[isal]()
 ### Profile views counter 👁️‍🗨️
 [![mfaisal-Ash profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/mfaisal-Ash)
 
-<br>
+<!-- <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaisal-Ash&show_icons=true&locale\&hide_progress=true" alt="isal"/></p>
-<br>
+<br> -->
 
