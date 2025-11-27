@@ -1,6 +1,6 @@
 ### Hallo, I'm Faisal 👋
 <p align="center">
-You can also check out my portfolio at[isal](https://github.com/mfaisal-Ash/portofolio)
+You can also check out my portfolio at[isal]()
   <img src="https://github.com/mfaisal-Ash/Portofolio/blob/master/public/user.png" />
 </p>
 
